@@ -1,0 +1,31 @@
+name,description,html_url,watchers_count,stargazers_count,forks_count
+xorm,"Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm",https://github.com/go-xorm/xorm,6517,6517,786
+sprint,"A tiny, lightning fast jQuery-like library for modern browsers.",https://github.com/bendc/sprint,4280,4280,179
+helios,An extensible open-source mobile backend framework,https://github.com/helios-framework/helios,4151,4151,345
+scroller,Accelerated panning and zooming for HTML and Canvas,https://github.com/pbakaus/scroller,3835,3835,432
+generator-gulp-angular,Yeoman generator for AngularJS with GulpJS [UNMAINTAINED next iteration is FountainJS],https://github.com/Swiip/generator-gulp-angular,3753,3753,690
+helium-css,Helium - javascript tool to scan your site and show unused CSS,https://github.com/geuis/helium-css,3647,3647,263
+origami,A Quartz Composer framework that enables interactive design prototyping without programming.,https://github.com/facebookarchive/origami,3294,3294,462
+iOS8-Sampler,Code examples for the new features of iOS 8.,https://github.com/shu223/iOS8-Sampler,3184,3184,384
+sublime-jsdocs,"Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++",https://github.com/spadgos/sublime-jsdocs,3122,3122,288
+objective-c-style-guide,A style guide that outlines the coding conventions for raywenderlich.com,https://github.com/raywenderlich/objective-c-style-guide,3096,3096,644
+JASidePanels,Reveal side ViewControllers similar to Facebook/Path's menu,https://github.com/gotosleep/JASidePanels,3058,3058,618
+webscalesql-5.6,"WebScaleSQL, Version 5.6, based upon the MySQL-5.6 community releases.",https://github.com/facebookarchive/webscalesql-5.6,2971,2971,375
+scrollpath,A plugin for defining custom scroll paths.,https://github.com/JoelBesada/scrollpath,2815,2815,475
+syte,"[Archived] A really simple but powerful packaged personal site that has social integrations like twitter, github, dribbble, instagram, foursquare, tumblr, wordpress, linkedin, spotify/last.fm, and much more...",https://github.com/rigoneri/syte,2804,2804,514
+react-templates,Light weight templates for react,https://github.com/wix/react-templates,2811,2811,220
+angularfire,AngularJS bindings for Firebase,https://github.com/FirebaseExtended/angularfire,2750,2750,673
+Side-Menu.iOS,Animated side menu with customizable UI,https://github.com/Yalantis/Side-Menu.iOS,2703,2703,327
+Bootstrap-Admin-Template,Metis - Free Bootstrap Admin Dashboard Template,https://github.com/puikinsh/Bootstrap-Admin-Template,2700,2700,1325
+cupertino,CLI for the Apple Dev Center,https://github.com/nomad/cupertino,2655,2655,197
+our-boxen,Copy me for your team.,https://github.com/boxen/our-boxen,2608,2608,942
+MaterialKit,Material design components for iOS written in Swift,https://github.com/nghialv/MaterialKit,2521,2521,296
+OpenLiveWriter,An open source fork of Windows Live Writer,https://github.com/OpenLiveWriter/OpenLiveWriter,2407,2407,496
+SublimeWebInspector,Web Inspector allow you debug Javascript right in the editor,https://github.com/sokolovstas/SublimeWebInspector,2364,2364,96
+sublimetext-markdown-preview,markdown preview and build plugin for sublime text 2/3,https://github.com/revolunet/sublimetext-markdown-preview,2336,2336,373
+gluon-api,"A clear, concise, simple yet powerful and efficient API for deep learning.",https://github.com/gluon-api/gluon-api,2322,2322,229
+redux-router,Redux bindings for React Router – keep your router state inside your Redux store,https://github.com/acdlite/redux-router,2323,2323,217
+backbonetutorials,"As single page apps and large scale javascript applications become more prominent on the web, useful resources for those developers who are jumping the ship are crucial.",https://github.com/thomasdavis/backbonetutorials,2313,2313,1772
+ZCAnimatedLabel,UILabel replacement with fine-grain appear/disappear animation,https://github.com/overboming/ZCAnimatedLabel,2294,2294,226
+meteor-up-legacy,Production Quality Meteor Deployments,https://github.com/arunoda/meteor-up-legacy,2286,2286,418
+BigVideo.js,The jQuery Plugin for Big Background Video (and Images),https://github.com/johnpolacek/BigVideo.js,2265,2265,449
